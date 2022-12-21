@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NormalLoogi.png">
+<SubTexture name="do0000" x="1901" y="0" width="327" height="823" frameX="-424" frameY="-172" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="do0001" x="1320" y="859" width="319" height="834" frameX="-425" frameY="-162" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="idle0000" x="328" y="859" width="325" height="843" frameX="-425" frameY="-172" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="idle0001" x="653" y="859" width="322" height="843" frameX="-426" frameY="-172" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="idle0002" x="949" y="0" width="318" height="850" frameX="-427" frameY="-165" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="idle0003" x="1267" y="0" width="318" height="850" frameX="-427" frameY="-165" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="le0000" x="636" y="0" width="313" height="851" frameX="-429" frameY="-164" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="le0001" x="1585" y="0" width="316" height="849" frameX="-429" frameY="-166" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="ri0000" x="975" y="859" width="345" height="838" frameX="-414" frameY="-168" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="ri0001" x="0" y="859" width="328" height="845" frameX="-414" frameY="-161" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="up0000" x="0" y="0" width="318" height="859" frameX="-431" frameY="-157" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="up0001" x="318" y="0" width="318" height="855" frameX="-431" frameY="-161" frameWidth="1200" frameHeight="1200" />
+</TextureAtlas>

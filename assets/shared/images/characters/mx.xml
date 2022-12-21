@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="msex.png">
+<SubTexture name="id0000" x="3115" y="592" width="590" height="590" frameX="-96" frameY="-105" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0001" x="3115" y="1182" width="569" height="590" frameX="-102" frameY="-105" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0002" x="684" y="1989" width="555" height="596" frameX="-106" frameY="-99" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0003" x="2571" y="0" width="544" height="601" frameX="-110" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0004" x="717" y="1375" width="541" height="602" frameX="-111" frameY="-93" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0005" x="1258" y="1375" width="541" height="602" frameX="-111" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="id0006" x="1799" y="1375" width="541" height="602" frameX="-111" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="do0000" x="1813" y="3171" width="612" height="503" frameX="-79" frameY="-150" frameWidth="800" frameHeight="800" />
+<SubTexture name="do0001" x="1216" y="3171" width="597" height="507" frameX="-87" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="do0002" x="657" y="3171" width="559" height="522" frameX="-103" frameY="-133" frameWidth="800" frameHeight="800" />
+<SubTexture name="do0003" x="3115" y="1772" width="549" height="525" frameX="-108" frameY="-130" frameWidth="800" frameHeight="800" />
+<SubTexture name="do0004" x="2566" y="1989" width="549" height="525" frameX="-108" frameY="-130" frameWidth="800" frameHeight="800" />
+<SubTexture name="le0000" x="0" y="2587" width="659" height="584" frameX="-64" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="le0001" x="1961" y="2587" width="656" height="582" frameX="-68" frameY="-102" frameWidth="800" frameHeight="800" />
+<SubTexture name="le0002" x="659" y="2587" width="652" height="584" frameX="-73" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="le0003" x="1311" y="2587" width="650" height="584" frameX="-75" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="ri0000" x="0" y="1989" width="684" height="598" frameX="-51" frameY="-90" frameWidth="800" frameHeight="800" />
+<SubTexture name="ri0001" x="1239" y="1989" width="679" height="595" frameX="-51" frameY="-93" frameWidth="800" frameHeight="800" />
+<SubTexture name="ri0002" x="1918" y="1989" width="648" height="592" frameX="-49" frameY="-96" frameWidth="800" frameHeight="800" />
+<SubTexture name="ri0003" x="3115" y="0" width="643" height="592" frameX="-49" frameY="-96" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0000" x="0" y="691" width="622" height="684" frameX="-73" frameY="-56" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0001" x="622" y="691" width="618" height="678" frameX="-76" frameY="-61" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0002" x="1977" y="0" width="594" height="667" frameX="-91" frameY="-71" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0003" x="1977" y="667" width="590" height="659" frameX="-93" frameY="-78" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0000" x="1240" y="691" width="668" height="675" frameX="-32" frameY="-69" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0001" x="1308" y="0" width="669" height="688" frameX="-27" frameY="-56" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0002" x="0" y="0" width="654" height="691" frameX="-19" frameY="-52" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0003" x="654" y="0" width="654" height="689" frameX="-20" frameY="-54" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0004" x="0" y="1375" width="717" height="614" frameX="-77" frameY="-167" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0005" x="2617" y="2587" width="664" height="580" frameX="-87" frameY="-192" frameWidth="800" frameHeight="800" />
+<SubTexture name="sd0006" x="0" y="3171" width="657" height="572" frameX="-87" frameY="-197" frameWidth="800" frameHeight="800" />
+</TextureAtlas>
