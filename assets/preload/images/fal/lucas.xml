@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lucas_FalseH.png">
+<SubTexture name="si0000" x="0" y="0" width="422" height="731" frameX="-296" frameY="-144" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="si0001" x="422" y="0" width="409" height="733" frameX="-299" frameY="-142" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="si0002" x="0" y="733" width="395" height="741" frameX="-306" frameY="-134" frameWidth="1020" frameHeight="1020" />
+<SubTexture name="si0003" x="395" y="733" width="389" height="744" frameX="-312" frameY="-131" frameWidth="1020" frameHeight="1020" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mr.png">
+<SubTexture name="Scary_Cloud0000" x="0" y="0" width="413" height="377" frameX="-9" frameY="0" frameWidth="444" frameHeight="390" />
+<SubTexture name="Scary_Cloud0001" x="413" y="0" width="426" height="352" frameX="-2" frameY="-9" frameWidth="444" frameHeight="390" />
+<SubTexture name="Scary_Cloud0002" x="0" y="377" width="428" height="345" frameX="0" frameY="-12" frameWidth="444" frameHeight="390" />
+</TextureAtlas>
