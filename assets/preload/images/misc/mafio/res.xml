@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="si.png">
+<SubTexture name="si eso pilin0000" x="0" y="182" width="55" height="9" frameX="0" frameY="0" frameWidth="55" frameHeight="9" />
+<SubTexture name="si presiona gorda puta0000" x="0" y="0" width="711" height="182" frameX="0" frameY="0" frameWidth="711" frameHeight="182" />
+</TextureAtlas>
