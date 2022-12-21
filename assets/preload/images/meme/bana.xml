@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nana_Bopper.png">
+<SubTexture name="nana_bopper0000" x="0" y="0" width="538" height="664" frameX="-25" frameY="-54" frameWidth="600" frameHeight="748" />
+<SubTexture name="nana_bopper0001" x="538" y="0" width="538" height="666" frameX="-26" frameY="-52" frameWidth="600" frameHeight="748" />
+<SubTexture name="nana_bopper0002" x="0" y="666" width="540" height="687" frameX="-39" frameY="-31" frameWidth="600" frameHeight="748" />
+<SubTexture name="nana_bopper0003" x="540" y="666" width="542" height="690" frameX="-41" frameY="-28" frameWidth="600" frameHeight="748" />
+</TextureAtlas>

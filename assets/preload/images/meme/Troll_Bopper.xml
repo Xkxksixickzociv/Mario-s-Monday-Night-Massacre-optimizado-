@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Troll_Bopper.png">
+<SubTexture name="troll_bopper0000" x="0" y="0" width="375" height="694" frameX="-24" frameY="-47" frameWidth="448" frameHeight="775" />
+<SubTexture name="troll_bopper0001" x="375" y="0" width="374" height="695" frameX="-24" frameY="-46" frameWidth="448" frameHeight="775" />
+<SubTexture name="troll_bopper0002" x="0" y="695" width="368" height="715" frameX="-41" frameY="-26" frameWidth="448" frameHeight="775" />
+<SubTexture name="troll_bopper0003" x="368" y="695" width="368" height="718" frameX="-44" frameY="-23" frameWidth="448" frameHeight="775" />
+</TextureAtlas>

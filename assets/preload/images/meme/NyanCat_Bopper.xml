@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NyanCat_Bopper.png">
+<SubTexture name="NyanCat_bopper0000" x="0" y="0" width="870" height="396" frameX="0" frameY="-19" frameWidth="938" frameHeight="450" />
+<SubTexture name="NyanCat_bopper0001" x="0" y="396" width="866" height="398" frameX="-2" frameY="-17" frameWidth="938" frameHeight="450" />
+<SubTexture name="NyanCat_bopper0002" x="0" y="794" width="850" height="412" frameX="-26" frameY="-3" frameWidth="938" frameHeight="450" />
+<SubTexture name="NyanCat_bopper0003" x="0" y="1206" width="848" height="414" frameX="-31" frameY="0" frameWidth="938" frameHeight="450" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shoop_Bopper.png">
+<SubTexture name="shoop_da_whoop0000" x="0" y="0" width="347" height="363" frameX="-18" frameY="-37" frameWidth="365" frameHeight="403" />
+<SubTexture name="shoop_da_whoop0001" x="347" y="0" width="345" height="369" frameX="-14" frameY="-33" frameWidth="365" frameHeight="403" />
+<SubTexture name="shoop_da_whoop0002" x="0" y="369" width="333" height="366" frameX="-2" frameY="-4" frameWidth="365" frameHeight="403" />
+<SubTexture name="shoop_da_whoop0003" x="333" y="369" width="331" height="360" frameX="0" frameY="0" frameWidth="365" frameHeight="403" />
+</TextureAtlas>
