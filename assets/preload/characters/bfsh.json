@@ -4,7 +4,7 @@
 			"loop": false,
 			"offsets": [
 				-5,
-				0
+				10
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -14,33 +14,33 @@
 		{
 			"loop": false,
 			"offsets": [
-				4,
-				4
+				6,
+				13
 			],
 			"anim": "singLEFT",
-			"fps": 12,
+			"fps": 24,
 			"name": "BF NOTE LEFT0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				-43
+				-12,
+				-34
 			],
 			"anim": "singDOWN",
-			"fps": 12,
+			"fps": 24,
 			"name": "BF NOTE DOWN0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				44
+				-20,
+				54
 			],
 			"anim": "singUP",
-			"fps": 12,
+			"fps": 24,
 			"name": "BF NOTE UP0",
 			"indices": []
 		},
@@ -48,18 +48,51 @@
 			"loop": false,
 			"offsets": [
 				-44,
-				5
+				8
 			],
 			"anim": "singRIGHT",
-			"fps": 12,
+			"fps": 24,
 			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				21
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				37
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				11
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bfsh",
 	"position": [
-		0,
+		-60,
 		350
 	],
 	"healthicon": "bf",
@@ -70,8 +103,8 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		140,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

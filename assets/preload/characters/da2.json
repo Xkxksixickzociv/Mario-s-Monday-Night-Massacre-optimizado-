@@ -8,71 +8,71 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				4,
-				4
-			],
-			"anim": "singLEFT",
-			"fps": 12,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-19,
-				-43
-			],
-			"anim": "singDOWN",
-			"fps": 12,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
-				44
-			],
-			"anim": "singUP",
-			"fps": 12,
-			"name": "BF NOTE UP0",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-44,
-				5
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "le",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-159
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "do",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				55
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-31
 			],
 			"anim": "singRIGHT",
 			"fps": 12,
-			"name": "BF NOTE RIGHT0",
+			"name": "ri",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/da2",
 	"position": [
-		0,
-		350
+		30,
+		-290
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "eye",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		145,
+		81,
+		9
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }

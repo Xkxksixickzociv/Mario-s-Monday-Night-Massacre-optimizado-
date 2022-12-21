@@ -7,72 +7,72 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
+			"fps": 12,
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				4,
-				4
+				172,
+				-19
 			],
 			"anim": "singLEFT",
 			"fps": 12,
-			"name": "BF NOTE LEFT0",
+			"name": "le",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				-43
+				92,
+				-65
 			],
 			"anim": "singDOWN",
 			"fps": 12,
-			"name": "BF NOTE DOWN0",
+			"name": "do",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				44
+				79,
+				1
 			],
 			"anim": "singUP",
 			"fps": 12,
-			"name": "BF NOTE UP0",
+			"name": "up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				5
+				6,
+				-16
 			],
 			"anim": "singRIGHT",
 			"fps": 12,
-			"name": "BF NOTE RIGHT0",
+			"name": "ri",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/ih",
 	"position": [
-		0,
-		350
+		-110,
+		-110
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "shy",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		12,
+		148,
+		58
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.3
 }

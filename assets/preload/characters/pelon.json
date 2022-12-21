@@ -8,70 +8,70 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "victim idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				4,
-				4
+				76,
+				3
 			],
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "BF NOTE LEFT0",
+			"fps": 24,
+			"name": "victim_left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				-43
+				-27,
+				-7
 			],
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "BF NOTE DOWN0",
+			"fps": 24,
+			"name": "victim_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				44
+				5,
+				146
 			],
 			"anim": "singUP",
-			"fps": 12,
-			"name": "BF NOTE UP0",
+			"fps": 24,
+			"name": "victim_up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				5
+				-50,
+				-71
 			],
 			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "BF NOTE RIGHT0",
+			"fps": 24,
+			"name": "victim_right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/pelonete",
 	"position": [
-		0,
-		350
+		-110,
+		-110
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "vic",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		73,
+		45
 	],
 	"camera_position": [
-		0,
-		0
+		70,
+		40
 	],
 	"sing_duration": 4,
 	"scale": 1

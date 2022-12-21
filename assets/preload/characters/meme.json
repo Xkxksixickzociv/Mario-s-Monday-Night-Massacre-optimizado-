@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Grand Dad Idle"
+		},
+		{
+			"offsets": [
+				128,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GD Left"
+		},
+		{
+			"offsets": [
+				143,
+				-458
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GD Down"
+		},
+		{
+			"offsets": [
+				87,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GD Up"
+		},
+		{
+			"offsets": [
+				85,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GD RIght"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/meme",
+	"position": [
+		-110,
+		-110
+	],
+	"healthicon": "gd",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		126,
+		126
+	],
+	"camera_position": [
+		-80,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

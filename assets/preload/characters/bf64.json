@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF64 idle"
+		},
+		{
+			"offsets": [
+				-26,
+				-43
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF64 left"
+		},
+		{
+			"offsets": [
+				21,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF64 down"
+		},
+		{
+			"offsets": [
+				10,
+				-7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF64 up"
+		},
+		{
+			"offsets": [
+				-41,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF64 right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf64",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "m64",
+	"flip_x": true,
+	"healthbar_colors": [
+		223,
+		149,
+		89
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
