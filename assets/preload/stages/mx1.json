@@ -1,0 +1,67 @@
+{
+	"girlfriend": [
+		645,
+		1130
+	],
+	"boyfriend": [
+		380,
+	    1180
+	],
+	"isPixelStage": false,
+	"opponent": [
+		1140,
+		1200
+	],
+	"directory": "",
+	"defaultZoom": 0.76,
+	"layers": [
+		{
+			"animation": "",
+			"scrollfactor": [
+				1,
+				1
+			],
+			"scale": 1.3,
+			"onFront": false,
+			"offset": [
+				-1715,
+				-1390
+			],
+			"name": "background_day",
+			"image": "backgrounds/background_day",
+			"flipX": false
+		},
+		{
+			"onFront": false,
+			"image": "backgrounds/minus",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "minus",
+			"animation": "",
+			"offset": [
+				-1721,
+				-789
+			],
+			"scale": 1.3
+		},
+		{
+			"onFront": false,
+			"image": "backgrounds/makubop",
+			"flipX": true,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "makubop",
+			"animation": "",
+			"offset": [
+				-1704,
+				592
+			],
+			"scale": 1.3
+		}
+	]
+}
